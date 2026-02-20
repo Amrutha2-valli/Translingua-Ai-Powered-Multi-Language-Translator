@@ -13,5 +13,6 @@ Scenario 2: Academic Research and Collaboration
 Researchers and academics collaborating on international projects often need to translate research papers, academic articles, and communication between team members who speak different languages. TransLingua assists in translating complex academic texts and facilitating cross-border collaborations by providing accurate translations of scholarly documents.
 Scenario 3: Travel and Tourism Assistance
 Travelers visiting foreign countries often face language barriers when trying to communicate with locals or understand travel-related information. TransLingua serves as a handy tool for translating signs, menus, and other text encountered during travel. This enhances the travel experience by making it easier for tourists to navigate unfamiliar environments and interact with local residents.
+
 Architecture:
 <img width="910" height="225" alt="image" src="https://github.com/user-attachments/assets/066975a9-5397-486f-854c-8d9d7e2dd134" />
